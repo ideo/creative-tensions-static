@@ -2,7 +2,7 @@
 (function(RM, undefined) {
 
 	RM.config = {
-		root: "/",
+		root: "/play/",
 		pushState: true
 	}
 
