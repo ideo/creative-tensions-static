@@ -55,6 +55,12 @@ var PastEvents = {
 		paraOne: 'Who am I responsible for? Looking out for one’s neighbor once formed the basis of our social contract. Today, as political and cultural identities harden, our responsibilities to one another and the world seem in question. What do we gain from a shared identity? What do we lose by becoming a tribe of tribes?',
 		paraTwo: '<i>Creative Tensions: Responsibility</i> brought together Heidi Beirich of the Southern Poverity Law Center, Nate Bowling, high school educator and finalist for 2016 National Teacher of the Year, and award-winning playwright Brandon Jacobs-Jenkins to examine the opposing forces that shape our sense of duty to each other.'	
 	},
+	bridges: {
+		date: 'November 1, 2017',
+		place: 'New Orleans',
+		paraOne: 'Every bridge stands at the edge of a space we hope to cross: a gap between here and there. As women, what are the gaps separating us from where we want to go? Who will make the bridges we might need, and what shape should they take? And as we approach a crossing, is there comfort in keeping our distance from the other side?',
+		paraTwo: '<i>Creative Tensions: Bridges</i> was produced at TEDWomen 2017: Bridges to explore what we must collectively confront to close the gender gap.'	
+	}
 };
 
 var UI = {

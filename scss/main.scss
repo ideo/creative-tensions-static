@@ -102,7 +102,7 @@ section {
 	}
 
 	&.event {
-		background: $event-aqua;
+		background: $event-purple;
 	}
 
 	&.eventsoon {
@@ -417,7 +417,7 @@ header {
 }
 
 .subheading {
-	color: $event-aqua;
+	color: $event-purple;
 	margin-bottom: 20px;
 }
 
@@ -681,6 +681,15 @@ video {
 
 			&.selected {
 				color: $event-yellow;
+			}
+		}
+		&[data-pastevent='bridges'] {
+			&:hover {
+				color: $event-aqua;
+			}
+
+			&.selected {
+				color: $event-aqua;
 			}
 		}
 	}
